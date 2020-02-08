@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -201,6 +201,7 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1120544228
 =======
 --- !u!1001 &991187501
@@ -283,6 +284,8 @@ Prefab:
   m_ParentPrefab: {fileID: 100100000, guid: 1ce71f9a210e12d48bbe1909a3b92f61, type: 2}
 >>>>>>> origin/master
   m_IsPrefabParent: 0
+=======
+>>>>>>> parent of 893d61f... kurodaシーン追加キューブ追加
 --- !u!1 &1277250380
 GameObject:
   m_ObjectHideFlags: 0
